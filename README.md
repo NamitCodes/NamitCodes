@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Namit!;" />
 </h1>
 
-### Currently pursuing B.Sc. degree in Programming and Data Science from IIT Madras. 
+### Currently pursuing B.Sc. in Programming and Data Science from IIT Madras. 
 ### Learning from Building, Breaking and Re-building stuff.
 
 - 🌱 I’m currently learning Full-Stack Development with JS based stacks.
