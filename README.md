@@ -5,8 +5,7 @@
 ### Currently pursuing B.Sc. in Programming and Data Science from IIT Madras. 
 ### Learning from Building, Breaking and Re-building stuff.
 
-- 🌱 I’m currently learning Full-Stack Development with JS based stacks.
-- I am also learning Data Structures and Algorithms in Java. (I quite like Java btw)
+- Having familiarity with Web Development using JS and python based stacks, I am now learning machine learning, deep learning and AI. 
 
 <br>
 
